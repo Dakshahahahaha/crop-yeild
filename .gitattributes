@@ -1,0 +1,2 @@
+crop_yeild_model.plk filter=lfs diff=lfs merge=lfs -text
+rf_model.pkl filter=lfs diff=lfs merge=lfs -text

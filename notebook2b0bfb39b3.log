@@ -1,0 +1,49 @@
+[{"stream_name":"stdout","time":13.566155832,"data":"/kaggle/input/crop-yield-in-indian-states-dataset/crop_yield.csv\n"}
+,{"stream_name":"stdout","time":13.708568671,"data":"No missing values to plot\n"}
+,{"stream_name":"stdout","time":47.406975605,"data":"Index(['Crop', 'Crop_Year', 'Season', 'State', 'Area', 'Production',\n"}
+,{"stream_name":"stdout","time":47.407032937,"data":"       'Annual_Rainfall', 'Fertilizer', 'Pesticide', 'Yield'],\n"}
+,{"stream_name":"stdout","time":47.407041986,"data":"      dtype='object')\n"}
+,{"stream_name":"stdout","time":48.418404878,"data":"           Crop  Crop_Year       Season  State     Area  Production  \\\n"}
+,{"stream_name":"stdout","time":48.418445405,"data":"0      Arecanut       1997  Whole Year   Assam  73814.0       56708   \n"}
+,{"stream_name":"stdout","time":48.418453682,"data":"1     Arhar/Tur       1997  Kharif       Assam   6637.0        4685   \n"}
+,{"stream_name":"stdout","time":48.418459574,"data":"2   Castor seed       1997  Kharif       Assam    796.0          22   \n"}
+,{"stream_name":"stdout","time":48.418465466,"data":"3      Coconut        1997  Whole Year   Assam  19656.0   126905000   \n"}
+,{"stream_name":"stdout","time":48.418470979,"data":"4  Cotton(lint)       1997  Kharif       Assam   1739.0         794   \n"}
+,{"stream_name":"stdout","time":48.418476479,"data":"\n"}
+,{"stream_name":"stdout","time":48.418481822,"data":"   Annual_Rainfall  Fertilizer  Pesticide        Yield  \n"}
+,{"stream_name":"stdout","time":48.418487477,"data":"0           2051.4  7024878.38   22882.34     0.796087  \n"}
+,{"stream_name":"stdout","time":48.418493215,"data":"1           2051.4   631643.29    2057.47     0.710435  \n"}
+,{"stream_name":"stdout","time":48.418506666,"data":"2           2051.4    75755.32     246.76     0.238333  \n"}
+,{"stream_name":"stdout","time":48.418512421,"data":"3           2051.4  1870661.52    6093.36  5238.051739  \n"}
+,{"stream_name":"stdout","time":48.418518933,"data":"4           2051.4   165500.63     539.09     0.420909  \n"}
+,{"stream_name":"stdout","time":48.418524863,"data":"Columns in dataset: Index(['Crop', 'Crop_Year', 'Season', 'State', 'Area', 'Production',\n"}
+,{"stream_name":"stdout","time":48.418531221,"data":"       'Annual_Rainfall', 'Fertilizer', 'Pesticide', 'Yield'],\n"}
+,{"stream_name":"stdout","time":48.41853707,"data":"      dtype='object')\n"}
+,{"stream_name":"stdout","time":48.418542977,"data":"Missing Values:\n"}
+,{"stream_name":"stdout","time":48.418548489,"data":" Crop               0\n"}
+,{"stream_name":"stdout","time":48.418554008,"data":"Crop_Year          0\n"}
+,{"stream_name":"stdout","time":48.418559717,"data":"Season             0\n"}
+,{"stream_name":"stdout","time":48.418565237,"data":"State              0\n"}
+,{"stream_name":"stdout","time":48.418571486,"data":"Area               0\n"}
+,{"stream_name":"stdout","time":48.418577544,"data":"Production         0\n"}
+,{"stream_name":"stdout","time":48.418583572,"data":"Annual_Rainfall    0\n"}
+,{"stream_name":"stdout","time":48.418590179,"data":"Fertilizer         0\n"}
+,{"stream_name":"stdout","time":48.418597152,"data":"Pesticide          0\n"}
+,{"stream_name":"stdout","time":48.418603073,"data":"Yield              0\n"}
+,{"stream_name":"stdout","time":48.418608927,"data":"dtype: int64\n"}
+,{"stream_name":"stdout","time":59.490726505,"data":"MAE: 1624646.026368715\n"}
+,{"stream_name":"stdout","time":59.490766537,"data":"MSE: 694589070249088.8\n"}
+,{"stream_name":"stdout","time":59.490775816,"data":"RMSE: 26355057.773586623\n"}
+,{"stream_name":"stdout","time":59.490782949,"data":"R2 Score: 0.9908635945337863\n"}
+,{"stream_name":"stderr","time":63.917043553,"data":"/usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"remove_papermill_header.RemovePapermillHeader\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":63.917109499,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":63.976070465,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":64.399200555,"data":"[NbConvertApp] Writing 81698 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":66.122323777,"data":"/usr/local/lib/python3.10/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=[\"nbconvert.preprocessors.ExtractOutputPreprocessor\"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.\n"}
+,{"stream_name":"stderr","time":66.122382726,"data":"  warn(\n"}
+,{"stream_name":"stderr","time":66.159297913,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":67.2261005,"data":"[NbConvertApp] Support files will be in __results___files/\n"}
+,{"stream_name":"stderr","time":67.226142904,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":67.226737469,"data":"[NbConvertApp] Making directory __results___files\n"}
+,{"stream_name":"stderr","time":67.226760294,"data":"[NbConvertApp] Writing 298830 bytes to __results__.html\n"}
+]
